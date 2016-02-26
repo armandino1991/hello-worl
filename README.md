@@ -1,2 +1,4 @@
-# hello-worl
+# hello-world
 first project
+
+Roi de Navarre
